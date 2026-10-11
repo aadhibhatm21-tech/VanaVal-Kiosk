@@ -1,0 +1,7 @@
+ultralytics
+onnxruntime
+opencv-python-headless
+pillow
+streamlit
+numpy
+pandas
